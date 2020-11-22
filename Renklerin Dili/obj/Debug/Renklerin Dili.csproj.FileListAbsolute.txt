@@ -1,0 +1,10 @@
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.csprojAssemblyReference.cache
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin_Dili.Form1.resources
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin_Dili.Properties.Resources.resources
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.csproj.GenerateResource.cache
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.csproj.CoreCompileInputs.cache
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.exe.config
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.exe
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\bin\Debug\Renklerin Dili.pdb
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.exe
+C:\Users\EymenUras\Source\Repos\Renklerin Dili\Renklerin Dili\obj\Debug\Renklerin Dili.pdb
